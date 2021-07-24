@@ -2,6 +2,8 @@
 Draft repo for GT Bootcamp, Project 1
 
 
+Link: https://docs.google.com/presentation/d/1zJyEgc8TlJR43Vmti915aFX77J7Lx-vs6qsVj8Ja5-I/edit#slide=id.g77752d2469_0_0
+
 Learning Objectives
 
 
